@@ -28,7 +28,7 @@ namespace EveryTokens
                 if (ap.bot != null)
                 {
                     Console.WriteLine(ap.bot.username+"#"+ap.bot.discriminator.ToString()+" | "+ap.bot.token);
-                    tokenlist += bot.token + Environment.NewLine;
+                    tokenlist += ap.bot.token + Environment.NewLine;
                 }
             }
             if (SaveToken)
