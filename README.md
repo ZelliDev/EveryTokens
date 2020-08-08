@@ -7,7 +7,6 @@
 Easily take every bots tokens from Discord User Tokens
 
 ## Installation
-```
 
 Download the current release and Run EveryTokens.exe
 
