@@ -21,7 +21,6 @@ namespace EveryTokens
             client.Connect(token);
 
             Applications app = client.GetApplications();
-            Bot bot = app.Apps[0].bot;
             string tokenlist = "";
             foreach (Apps ap in app.Apps)
             {
