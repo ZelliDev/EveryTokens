@@ -5,7 +5,7 @@
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
 
-Easily take every bots tokens from Discord User Tokens
+Easily take every bots tokens from Discord Users Tokens
 
 ## Installation
 
